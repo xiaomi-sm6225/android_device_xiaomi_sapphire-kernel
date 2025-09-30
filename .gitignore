@@ -1,0 +1,6 @@
+dtbs
+vendor_dlkm
+vendor_ramdisk
+Image
+Module.symvers
+System.map
